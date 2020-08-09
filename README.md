@@ -59,13 +59,19 @@
 - [ ] Программирование:
     - [ ] [Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)](http://www.ozon.ru/context/detail/id/5322055/)
     - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
+    - [ ] [Грокаем алгориты (Адитья Бхаргава).](https://www.litres.ru/aditya-bhargava/grokaem-algoritmy-illustrirovannoe-posobie-dlya-p-39158380/)
     - [ ] [Совершенный код (Стив Макконнелл)](http://www.ozon.ru/context/detail/id/5508646/)
     - [ ] [Чистый код: создание, анализ и рефакторинг (Роберт Мартин)](http://www.ozon.ru/context/detail/id/21916535/)
     - [ ] [Рефакторинг. Улучшение существующего кода (Мартин Фаулер)](http://www.ozon.ru/context/detail/id/1308678/)
+    - [ ] [Автоматное программирование (Надежда Поликарпова, Анатолий Шалыто)](https://www.litres.ru/anatoliy-shalyto/avtomatnoe-programmirovanie-585075/)
 
 - [ ] Операционные системы:
     - [ ] [Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)](http://www.ozon.ru/context/detail/id/2419365/)
     - [ ] [Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)](https://www.ozon.ru/context/detail/id/7607778/)
+    
+- [ ] Дизайн:
+    - [ ] [Не заставляйте меня думать (Стив Круг)](https://www.litres.ru/stiv-krug/ne-zastavlyayte-menya-dumat-veb-uzabiliti-i-zdravyy-smysl-24147734/)
+    - [ ] [Дизайн привычных вещей (Дональд Норман)](https://www.litres.ru/donald-norman/dizayn-privychnyh-veschey/)
 
 - [ ] Люди:
     - [ ] [Человеческий фактор. Успешные проекты и команды (Том ДеМарко, Тимоти Листер)](https://www.ozon.ru/context/detail/id/2338486/)
