@@ -87,6 +87,13 @@
     - [ ] [Duolingo](https://www.duolingo.com/)
     - [ ] [Lingualeo](https://lingualeo.com/)
     - [ ] [Babadum](https://babadum.com/)
+    - [ ] [Puzzle English](https://puzzle-english.com/) - Множество тренажеров и курсов
+    - [ ] [Context Reverso](https://context.reverso.net/) - Употребление слов в контексте
+    - [ ] [English Dom](https://www.englishdom.com/)
+    - [ ] [Interpals](https://www.interpals.net/)
+    - [ ] [Italki](https://www.italki.com/?hl=en)
+    - [ ] [Engvid](https://www.engvid.com/)
+    - [ ] [Puzzle Movies](https://puzzle-movies.com/) - изучение английского по фильмам
     - [ ] [Anki](http://ankisrs.net/) и карточки [4000 Essential English Words (all books) [en-en] M4R4M](https://ankiweb.net/shared/info/1898344648)
     - [ ] [Techrocks](https://techrocks.ru) очень много статей переведенных с английского
     - [ ] [English e-Reader](https://english-e-reader.net/) адаптированные книги на английском
