@@ -34,6 +34,7 @@
     - [ ] [JavaScript](#javascript-)
     - [ ] [Адаптивный/отзывчивый веб-дизайн](#Адаптивныйотзывчивый-веб-дизайн-)
     - [ ] [JavaScript библиотеки](#javascript-библиотеки-)
+    - [ ] [Работа с API](#Работа-с-api-)
     - [ ] [Препроцессоры CSS](#Препроцессоры-css-)
     - [ ] [Сборщик проектов](#Сборщик-проектов-)
     - [ ] [Пакетный менеджер](#Пакетный-менеджер-)
@@ -553,9 +554,29 @@
 - [ ] [Three - 3D](http://threejs.org/)
 - [ ] [WOW - анимация при прокрутки страницы](http://mynameismatthieu.com/WOW/)
 - [ ] [Moment - Работа с датой и временем](http://momentjs.com/)
+- [ ] [Date-fns - Работа с датой и временем](https://date-fns.org/)
 - [ ] [Mocha - написание тестов](https://mochajs.org/)
+- [ ] [Lodash](https://lodash.com/docs/)
+- [ ] [Ramda](https://ramdajs.com/docs/)
+- [ ] [Leaflet - работа с картами](https://leafletjs.com/)
+- [ ] [Axios - работа с API)(https://github.com/axios/axios)
+- [ ] [Immer - immutability helper](https://immerjs.github.io/immer/docs/introduction)
+- [ ] [Video.js - работа с видео](https://videojs.com/)
+- [ ] [Immutability helper](https://github.com/kolodny/immutability-helper)
+- [ ] [Core.js](https://github.com/zloirock/core-js)
+- [ ] [Underscore.js - хелпер для функционального программирования](https://underscorejs.org/)
+- [ ] [ImmutableJS - immutability helper](https://immutable-js.github.io/immutable-js/)
 
 Список наиболее популярных библиотек есть на [Javascripting](https://www.javascripting.com/)
+
+---
+
+### Работа с API [&uarr;](#Содержание)
+**Цель** - познакомиться с наиболее популярными API
+
+Список популярных API:
+- [ ] [Google Maps](https://www.google.com/maps/)
+- [ ] [Яндекс карты](https://yandex.ru/maps/)
 
 ---
 
